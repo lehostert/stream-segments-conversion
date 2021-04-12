@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# GIS Data Folder
+/SSA_Streamlines_2016/
